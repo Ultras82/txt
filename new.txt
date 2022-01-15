@@ -1,0 +1,4 @@
+name Rybalko_Mikhail
+age 39
+animals no animals
+salary 2000$
