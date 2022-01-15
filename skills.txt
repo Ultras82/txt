@@ -1,0 +1,25 @@
+1. Basic theory (What is testing, bug reports, documentation, types, methods, areas of testing, etc.) SDLC, STLC.
+2. What is client-server architecture.
+3. Methods of requests to the server.
+4. Server responses.
+5. Structures of requests and responses.
+6. What is JSON, XML. Their structure.
+7. Testing API.
+8. Removal and reading of logs.
+9. Postman, Fidler.
+10. VPN. (How it works, why you need it, how to use it, tool options)
+11. Dev Tools of web browsers (Google Chrome, FireFox).
+12. Mobile testing.
+13. Feature of iOS, Android, guidelines.
+14. Building iOS applications on Xcode.
+15. Build Android applications on Android Studio.
+16. Interception of mobile traffic (sniffing) via Charles.
+17. Proxy settings on iOS and Android.
+18. Command line (terminal) Linux Ubuntu. Copying, creating, viewing, moving files on servers without a graphical interface.
+19. Simple bash scripting, automation of routine tasks on the server.
+20. Access to remote servers.
+21. SQL Basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join.
+22. Git.
+23. Jmeter.
+24. Scrum Development Methodology.
+25. Python. Creation of own client-server application.
